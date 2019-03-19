@@ -1,6 +1,10 @@
 function make_slides(f) {
   var slides = {};
 
+  slides.auth = slide({
+    name : "auth",
+  });
+
   slides.i0 = slide({
      name : "i0",
      start: function() {
@@ -604,6 +608,7 @@ function init() {
     };
   //blocks of the experiment:
   exp.structure=[
+    "auth"
     "i0",
     "example1",
     "example2",
