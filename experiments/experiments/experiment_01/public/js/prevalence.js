@@ -608,7 +608,7 @@ function init() {
     };
   //blocks of the experiment:
   exp.structure=[
-    "auth"
+    "auth",
     "i0",
     "example1",
     "example2",
