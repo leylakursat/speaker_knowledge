@@ -1,7 +1,6 @@
 
-var path = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/corpus/corpus29.txt';
-//var path = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/practice_corpus.txt';
-var path_attention = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/attention_check_items.txt';
+var path = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/corpus/corpus1.txt';
+var path_attention = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/corpus/attention_check_items.txt';
 
 
 function get_data(fullpath) {
