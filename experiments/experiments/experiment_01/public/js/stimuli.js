@@ -1,5 +1,5 @@
 
-var path = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/corpus/corpus1.txt';
+var path = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/corpus/corpus01.txt';
 var path_attention = 'https://raw.githubusercontent.com/leylakursat/some_replacement/master/corpus/attention_check_items.txt';
 
 
