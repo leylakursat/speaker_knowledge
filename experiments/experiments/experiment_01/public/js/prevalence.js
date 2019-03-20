@@ -55,7 +55,7 @@ slides.example1 = slide({
     exp.data_trials.push({
       "slide_number_in_experiment" : exp.phase,
       "tgrep_id" : "examplecheckbox1",
-      "response" : ["", this.response]
+      "response" : [0, this.response]
     });
   },
   init_sliders : function() {
@@ -127,7 +127,7 @@ slides.example2 = slide({
     exp.data_trials.push({
       "slide_number_in_experiment" : exp.phase,
       "tgrep_id" : "examplecheckbox2",
-      "response" : ["", this.response]
+      "response" : [0, this.response]
     });
   },
   init_sliders : function() {
@@ -199,7 +199,7 @@ slides.example3 = slide({
     exp.data_trials.push({
       "slide_number_in_experiment" : exp.phase,
       "tgrep_id" : "examplecheckbox3",
-      "response" : ["", this.response]
+      "response" : [0, this.response]
     });
   },
   init_sliders : function() {
